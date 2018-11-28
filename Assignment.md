@@ -20,20 +20,23 @@ Find the user with max number of tweets. Print user name and total number of twe
 
 
 ### Sample 1:
-Input 
+#### Input 
+```
 1
 4
 sachin tweet_id_1
 sehwag tweet_id_2
 sachin tweet_id_3
 sachin tweet_id_4
+```
 
 #### Output
-sachin 3
+```sachin 3```
 
 
 ### Sample 2:
-Input 
+#### Input 
+```
 1
 6
 sachin tweet_id_1
@@ -42,16 +45,19 @@ sachin tweet_id_3
 sehwag tweet_id_4
 kohli tweet_id_5
 kohli tweet_id_6
-
+```
 #### Output
+```
 kohli 2
 sachin 2
 sehwag 2
+```
 
 
 
 ### Sample 3:
-Input 
+#### Input
+```
 2
 4
 sachin tweet_id_1
@@ -64,11 +70,14 @@ dhoni tweet_id_11
 kohli tweet_id_12
 dhoni tweet_id_13
 dhoni tweet_id_14
+```
 
 #### Output
+```
 sachin 2
 sehwag 2
 dhoni 4
+```
 
 
 
